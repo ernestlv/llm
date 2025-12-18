@@ -1,0 +1,53 @@
+Standford Notes - Training Neural Networks
+https://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture6.pdf
+
+Standford CS231 Notes Deep Learning for computer vision
+https://cs231n.github.io/
+
+Neural Networks Data & Architecture
+https://www.welchlabs.com/blog/2015/1/16/neural-networks-demystified-part-1-data-and-architecture
+
+Google Continuous Delivery and Automation pipelines in ML
+https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+
+Best Practices for ML Engineering
+https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+Neural Networks and Deep Learning
+http://neuralnetworksanddeeplearning.com/
+
+Deep Learning MIT Press
+https://www.deeplearningbook.org/
+
+Practical Deep Learning for Coders
+https://course.fast.ai/Resources/book.html
+
+Deep Learning with PyTorch
+https://www.manning.com/books/deep-learning-with-pytorch-second-edition
+
+PyTorch 2
+https://pytorch.org/get-started/pytorch-2-x/
+
+PyTorch Documentation
+https://docs.pytorch.org/docs/stable/index.html
+
+The Quest For AI a history of ideas and achievements - Cambridge University Press
+https://ai.stanford.edu/~nilsson/QAI/qai.pdf
+
+AI: A guide for thinking Humans
+https://threetreesbooks.com/book/9781250758040
+
+Neural Networks - YouTube Videos
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Depp Learning with PyTorch in 60 minutes
+https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+Coursera Deep Learning specialization
+https://www.deeplearning.ai/courses/deep-learning-specialization/
+
+Coursera Machine Learning Fundamentals
+https://www.deeplearning.ai/courses/machine-learning-specialization/
+
+Coursera PyTorch for Deep Learnning Lecture Notes
+https://community.deeplearning.ai/t/pytorch-for-deep-learning-course-1-lecture-notes/882257
