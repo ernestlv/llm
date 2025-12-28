@@ -1,0 +1,44 @@
+Data-Centric AI vs. Model-Centric AI
+https://dcai.csail.mit.edu/2024/data-centric-model-centric/
+
+The Principles of Data-Centric AI
+https://cacm.acm.org/research/the-principles-of-data-centric-ai/
+
+Data-Centric Artificial Intelligence
+https://arxiv.org/html/2212.11854v4
+
+3.1. Cross-validation: evaluating estimator performance
+https://scikit-learn.org/stable/modules/cross_validation.html
+
+Data Leakage in Machine Learning
+https://machinelearningmastery.com/data-leakage-machine-learning/
+
+102 Category Flower Dataset
+https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+
+OxfordFlowers102
+https://huggingface.co/datasets/Voxel51/OxfordFlowers102
+
+Automated Flower Classification over a Large Number of Classes
+https://www.researchgate.net/publication/221551861_Automated_Flower_Classification_over_a_Large_Number_of_Classes
+
+Training Neural Networks
+https://cs231n.stanford.edu/slides/2023/lecture_7.pdf
+
+Deep Learning for Computer Vision
+https://cs231n.github.io/
+
+About Feature Scaling and Normalization
+https://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+
+Image Preprocessing Best Practices To Optimize Your AI Workflows
+https://voxel51.com/blog/image-preprocessing-best-practices-to-optimize-your-ai-workflows
+
+What is Data Augmentation? The Ultimate Guide.
+https://blog.roboflow.com/data-augmentation/
+
+Automating Data Augmentation: Practice, Theory and New Direction
+https://ai.stanford.edu/blog/data-augmentation/
+
+Tutorial for Data Augmentation (Pytorch focused) - video
+https://www.youtube.com/watch?v=rAdLwKJBvPM
