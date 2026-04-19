@@ -1,0 +1,4 @@
+Forward pass        → model makes a prediction
+Loss function       → scores how wrong it was
+Backward step       → computes gradients (blame)
+Optimizer           → updates weights to reduce loss
