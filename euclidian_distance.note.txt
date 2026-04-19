@@ -1,0 +1,11 @@
+So "Euclidean geometry" specifically means
+
+Space is flat — no curvature
+Parallel lines never meet
+Triangles always sum to 180°
+Distance is always computed with the Pythagorean formula
+
+These rules all come as a package. If you change one, you're in a different geometry with a different name.
+
+Why it matters in practice
+In machine learning for example, choosing a geometry is a real decision. If you measure distance between data points using the Pythagorean formula you are assuming the space is flat. But sometimes data lives on a curved surface — a sphere, a manifold — and using Euclidean distance gives you wrong answers. Switching geometry changes what "close" and "far apart" mean entirely.
